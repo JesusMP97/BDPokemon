@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BDPokemon</string>
+    <string name="deleted"><![CDATA[<Deleted>]]></string>
+    <string name="create_new_pokemon">Create new Pokemon</string>
+    <string name="search_pokemon">Search Pokemon</string>
+    <string name="restart_database">Restart database</string>
+</resources>
